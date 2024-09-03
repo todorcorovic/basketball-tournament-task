@@ -22,11 +22,13 @@ class Program
         // Prikaz prijateljskih utakmica za svaki tim i inicijalno postavljanje forme
         foreach (var team in exhibitionMatches)
         {
+            /* Ispis svih prijateljskih meceva
             Console.WriteLine($"Team: {team.Key}");
             foreach (var match in team.Value)
             {
                 Console.WriteLine($"{match.Date} - {match.Opponent}: {match.Result}");
             }
+            */
 
             foreach (var group in groupTeams)
             {
@@ -37,7 +39,7 @@ class Program
                         groupTeam.CalculateInitialForm(exhibitionMatches[team.Key]);
 
                         // Prikaz forme nakon inicijalnog postavljanja
-                        Console.WriteLine($"Initial Form for {groupTeam.Name}: {groupTeam.Form:F2}");
+                        //Console.WriteLine($"Initial Form for {groupTeam.Name}: {groupTeam.Form:F2}");
                     }
                 }
             }

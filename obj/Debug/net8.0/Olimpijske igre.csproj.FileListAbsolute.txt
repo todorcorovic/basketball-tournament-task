@@ -12,3 +12,18 @@ C:\Users\TOLE MAG\Desktop\Olimpijske igre\obj\Debug\net8.0\refint\Olimpijske igr
 C:\Users\TOLE MAG\Desktop\Olimpijske igre\obj\Debug\net8.0\Olimpijske igre.pdb
 C:\Users\TOLE MAG\Desktop\Olimpijske igre\obj\Debug\net8.0\Olimpijske igre.genruntimeconfig.cache
 C:\Users\TOLE MAG\Desktop\Olimpijske igre\obj\Debug\net8.0\ref\Olimpijske igre.dll
+C:\Users\TOLE MAG\Desktop\basketball-tournament-task\bin\Debug\net8.0\Olimpijske igre.exe
+C:\Users\TOLE MAG\Desktop\basketball-tournament-task\bin\Debug\net8.0\Olimpijske igre.deps.json
+C:\Users\TOLE MAG\Desktop\basketball-tournament-task\bin\Debug\net8.0\Olimpijske igre.runtimeconfig.json
+C:\Users\TOLE MAG\Desktop\basketball-tournament-task\bin\Debug\net8.0\Olimpijske igre.dll
+C:\Users\TOLE MAG\Desktop\basketball-tournament-task\bin\Debug\net8.0\Olimpijske igre.pdb
+C:\Users\TOLE MAG\Desktop\basketball-tournament-task\obj\Debug\net8.0\Olimpijske igre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOLE MAG\Desktop\basketball-tournament-task\obj\Debug\net8.0\Olimpijske igre.AssemblyInfoInputs.cache
+C:\Users\TOLE MAG\Desktop\basketball-tournament-task\obj\Debug\net8.0\Olimpijske igre.AssemblyInfo.cs
+C:\Users\TOLE MAG\Desktop\basketball-tournament-task\obj\Debug\net8.0\Olimpijske igre.csproj.CoreCompileInputs.cache
+C:\Users\TOLE MAG\Desktop\basketball-tournament-task\obj\Debug\net8.0\Olimpijske igre.sourcelink.json
+C:\Users\TOLE MAG\Desktop\basketball-tournament-task\obj\Debug\net8.0\Olimpijske igre.dll
+C:\Users\TOLE MAG\Desktop\basketball-tournament-task\obj\Debug\net8.0\refint\Olimpijske igre.dll
+C:\Users\TOLE MAG\Desktop\basketball-tournament-task\obj\Debug\net8.0\Olimpijske igre.pdb
+C:\Users\TOLE MAG\Desktop\basketball-tournament-task\obj\Debug\net8.0\Olimpijske igre.genruntimeconfig.cache
+C:\Users\TOLE MAG\Desktop\basketball-tournament-task\obj\Debug\net8.0\ref\Olimpijske igre.dll

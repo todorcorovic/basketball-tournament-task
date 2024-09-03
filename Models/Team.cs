@@ -68,14 +68,14 @@ namespace Olimpijske_igre.Models
                 }
 
                 // Dodaj ispis za svaki meč i rezultat bodova
-                Console.WriteLine($"Match: {match.Opponent}, Result: {match.Result}, Score Difference: {scoreDifference}, Points: {totalPoints}");
+                //Console.WriteLine($"Match: {match.Opponent}, Result: {match.Result}, Score Difference: {scoreDifference}, Points: {totalPoints}");
             }
 
             // Postavi formu na osnovu ukupnih bodova
             Form = totalPoints;
 
             // Ispis za potvrdu postavljanja forme
-            Console.WriteLine($"Final Form for {Name}: {Form:F2}");
+            //Console.WriteLine($"Final Form for {Name}: {Form:F2}");
         }
 
         public void UpdateFormAfterMatch(Team opponent, int score, int opponentScore)
@@ -103,10 +103,10 @@ namespace Olimpijske_igre.Models
             this.Form = Math.Clamp(this.Form, 0.0, 100.0);
             opponent.Form = Math.Clamp(opponent.Form, 0.0, 100.0);
 
-            // Ispis rezultata
-            Console.WriteLine($"Match: {this.Name} vs {opponent.Name}, Score: {score}-{opponentScore}");
-            Console.WriteLine($"{this.Name} Points: {points}, New Form: {this.Form:F2}");
-            Console.WriteLine($"{opponent.Name} Points: {-points}, New Form: {opponent.Form:F2}");
+            // Ispis rezultata i forme 
+            //Console.WriteLine($"Match: {this.Name} vs {opponent.Name}, Score: {score}-{opponentScore}");
+            //Console.WriteLine($"{this.Name} Points: {points}, New Form: {this.Form:F2}");
+            //Console.WriteLine($"{opponent.Name} Points: {-points}, New Form: {opponent.Form:F2}");
         }
 
 

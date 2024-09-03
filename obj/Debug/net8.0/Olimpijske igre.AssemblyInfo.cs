@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Olimpijske igre")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fa5a2bf1c31e0ed68857da6e399793593f495ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("Olimpijske igre")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Olimpijske igre")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

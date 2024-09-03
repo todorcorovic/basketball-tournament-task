@@ -88,13 +88,13 @@ namespace Olimpijske_igre.Services
                 .ToList();
 
             Console.WriteLine($"\nKonačan plasman u grupi {groupName}:");
-            Console.WriteLine($"{"Pozicija".PadRight(5)}{"Tim".PadRight(20)}{"Pobede / Porazi / Bodovi / Postignuti Koševi / Primljeni Koševi / Koš Razlika / Forma".PadRight(30)}");
+            Console.WriteLine($"{"Ime".PadRight(20)}{"Pobede / Porazi / Bodovi / Postignuti Koševi / Primljeni Koševi / Koš Razlika".PadRight(30)}");
             Console.WriteLine(new string('-', 80));
 
             for (int i = 0; i < sortedTeams.Count; i++)
             {
                 var team = sortedTeams[i];
-                Console.WriteLine($"{(i + 1).ToString().PadRight(5)}{team.Name.PadRight(20)}{team.Wins} / {team.Losses} / {team.Points} / {team.PointsScored} / {team.PointsAgainst} / {team.PointsDifference} / {team.Form:F2}".PadRight(30));
+                Console.WriteLine($"{(i + 1).ToString().PadRight(5)}{team.Name.PadRight(20)}{team.Wins} / {team.Losses} / {team.Points} / {team.PointsScored} / {team.PointsAgainst} / {team.PointsDifference}".PadRight(30));
             }
             Console.WriteLine("\n");
         }

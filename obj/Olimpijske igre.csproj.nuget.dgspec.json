@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TOLE MAG\\Desktop\\Olimpijske igre\\Olimpijske igre.csproj": {}
+    "C:\\Users\\TOLE MAG\\Desktop\\basketball-tournament-task\\Olimpijske igre.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TOLE MAG\\Desktop\\Olimpijske igre\\Olimpijske igre.csproj": {
+    "C:\\Users\\TOLE MAG\\Desktop\\basketball-tournament-task\\Olimpijske igre.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TOLE MAG\\Desktop\\Olimpijske igre\\Olimpijske igre.csproj",
+        "projectUniqueName": "C:\\Users\\TOLE MAG\\Desktop\\basketball-tournament-task\\Olimpijske igre.csproj",
         "projectName": "Olimpijske igre",
-        "projectPath": "C:\\Users\\TOLE MAG\\Desktop\\Olimpijske igre\\Olimpijske igre.csproj",
+        "projectPath": "C:\\Users\\TOLE MAG\\Desktop\\basketball-tournament-task\\Olimpijske igre.csproj",
         "packagesPath": "C:\\Users\\TOLE MAG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TOLE MAG\\Desktop\\Olimpijske igre\\obj\\",
+        "outputPath": "C:\\Users\\TOLE MAG\\Desktop\\basketball-tournament-task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TOLE MAG\\AppData\\Roaming\\NuGet\\NuGet.Config",
